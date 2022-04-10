@@ -42,6 +42,8 @@ Images from the system:
 
 ![site 2](https://user-images.githubusercontent.com/97969023/162211608-baf835ec-e679-4d50-bcc0-c142ded521ff.png)
 
+![site 6](https://user-images.githubusercontent.com/97969023/162595593-0e6fcbf9-4571-4fbf-a2cf-8f13bb599bf4.png)
+
 ![site 3](https://user-images.githubusercontent.com/97969023/162211594-f5ebef7b-9f11-4388-9087-e2af2c89583f.png)
 
 ![site 5](https://user-images.githubusercontent.com/97969023/162211618-1f7ada3c-81a8-4e4a-8444-a16192e2d08a.png)
